@@ -1,6 +1,6 @@
 # Cómo construir un bot en Telegram
 
-Este tutorial te va a enseñar cómo utilizar **librerías de terceros** y van a profundizar en el *uso de APIs*.
+Este tutorial te va a enseñar cómo utilizar **librerías de terceros** y va a profundizar en el *uso de APIs*.
 
 
 <!--
